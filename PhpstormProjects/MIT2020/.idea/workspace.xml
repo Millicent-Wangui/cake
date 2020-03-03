@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ae20e22-7347-449e-8b4f-f29dca307b08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Project4/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Project4/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project4/signup.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MIT2020" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Project4" />
+  </component>
+  <component name="ProjectId" id="1W3iXSGHY921vEbhG9lOAZMkK1Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assignment/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignment/images" />
+      <recent name="$PROJECT_DIR$/Assignment" />
+      <recent name="$PROJECT_DIR$/Assignment/css" />
+      <recent name="$PROJECT_DIR$/Project1/Images" />
+      <recent name="$PROJECT_DIR$/Lesson1/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignment/images" />
+      <recent name="$PROJECT_DIR$/Assignment" />
+      <recent name="$PROJECT_DIR$/Project3/images" />
+      <recent name="$PROJECT_DIR$/Project3" />
+      <recent name="$PROJECT_DIR$/Lesson2/images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ae20e22-7347-449e-8b4f-f29dca307b08" name="Default Changelist" comment="" />
+      <created>1578384719960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578384719960</updated>
+      <workItem from="1578384725493" duration="2860000" />
+      <workItem from="1578460131301" duration="7372000" />
+      <workItem from="1578468072123" duration="5781000" />
+      <workItem from="1578544886919" duration="10416000" />
+      <workItem from="1578632568818" duration="9993000" />
+      <workItem from="1578892934963" duration="12115000" />
+      <workItem from="1578905527702" duration="1754000" />
+      <workItem from="1578977926375" duration="12283000" />
+      <workItem from="1579066030950" duration="11426000" />
+      <workItem from="1579077732197" duration="1926000" />
+      <workItem from="1579151016347" duration="11972000" />
+      <workItem from="1579236916641" duration="13024000" />
+      <workItem from="1579496582196" duration="47000" />
+      <workItem from="1579496650507" duration="10372000" />
+      <workItem from="1579584354453" duration="4935000" />
+      <workItem from="1579667492542" duration="1919000" />
+      <workItem from="1580278621704" duration="2522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578906935644">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="0" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.741@0.0.1024.741" timestamp="1578906935644" />
+    <state x="111" y="176" width="913" height="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579501933197">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="111" y="176" width="913" height="385" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.741@0.0.1024.741" timestamp="1579501933197" />
+    <state x="245" y="120" width="526" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579242506753">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="245" y="120" width="526" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.741@0.0.1024.741" timestamp="1579242506753" />
+    <state x="271" y="243" width="473" height="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578982675437">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="271" y="243" width="473" height="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1024.741@0.0.1024.741" timestamp="1578982675437" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1579667834169">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1579667834169" />
+    <state x="176" y="53" width="664" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580279189000">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="176" y="53" width="664" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1024.741@0.0.1024.741" timestamp="1580279189000" />
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup" timestamp="1578985232923">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup/0.0.1024.741@0.0.1024.741" timestamp="1578985232923" />
+  </component>
+</project>

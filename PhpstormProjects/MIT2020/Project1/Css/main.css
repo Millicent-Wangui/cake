@@ -1,0 +1,41 @@
+        .left{
+            border:2px solid red;
+            background-color:red;
+            color:yellow;
+            padding:5px;
+            float:left;
+            width:20%
+
+        }
+        .center {
+            background-image: url("../Images/1.jpg");
+            border:2px solid blue;
+            background-color:blue;
+            color:yellow;
+            padding: 5px;
+            float:left;
+            width:55%
+        }
+        .right{
+            border:2px solid green;
+            background-color:green;
+            color:yellow;
+            padding:5px;
+            float:right;
+            width:20%
+        }
+        .navbar{
+            color:black;
+            background-color:black;
+        }
+        .navbar li{
+            list-style-type:none;
+            text-align: center;
+            margin-right: 2px;
+        }
+        .navbar a{
+            text-decoration: none;
+            color:white;
+            margin:5px
+        }
+

@@ -1,0 +1,78 @@
+/*core style*/
+body{
+    margin:0;
+    font-family:Arial,Helvetica,SansSerif;
+    background-color:#333;
+    color: #FFFFFF;
+    font-size: 1.1em;
+    text-align: center;
+
+}
+.bg-image {
+    background-image: url("../images/architecture-buildings-cars-1034662.jpg");
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 500px;
+    z-index:-1
+}
+#section-a{
+    height:500px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.btn{
+    text-decoration: none;
+    border:1px #333333 solid;
+    border-radius: 5px;
+    background-color: chartreuse;
+    color: #FFFFFF;
+    display: inline-block;
+    padding: 1em 2em;
+    margin: 5em;
+}
+.btn:hover{
+    background: navy;
+    color:#333333;
+}
+#section-b{
+    text-align: center;
+    margin: 0;
+    height: 500px;
+}
+#section-b .content-title{
+    color: #FFFFFF;
+    padding: 2em;
+}
+#section-c{
+    background:#FFFFFF ;
+    color: #333333;
+    padding: 2em;
+}
+.card{
+    height: 500px;
+    width: 400px;
+    border: 10px solid;
+    border-radius: 1px;
+}
+.card-image{
+    height:400px ;
+    width:400px
+}
+.card-image:hover{
+    opacity: 0.4;
+    height:380px ;
+    width:380px ;
+}
+#section-c li{
+    list-style-type:none;
+}
+
+/*media queries*/
+@media(min-width:700px) {
+    .grid{
+        dispay:grid;
+        grid-template-columns: 1fr 1fr 1fr;}
+}
